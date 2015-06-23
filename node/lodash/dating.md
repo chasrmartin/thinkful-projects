@@ -1,5 +1,5 @@
-title: Functional Programming with Lodash
-description: 
+title: OkCoding
+description: Functional Programming with Lodash
 duration: 4 hours
 date_implemented: 
 skill_level: Intermediate
