@@ -33,6 +33,7 @@
 ### Building applications with Hapi.js
 - skill_level:  Intermediate
 - description:  Get comfortable with the core features of Hapi.js, one of the more popular Node frameworks.
+> Why should I care about Hapi? Being popular isn't enough. Consider mentioning its best feature, for example [registering utility functions on the shared server object](http://hapijs.com/tutorials/server-methods).
 
 ### Using and Building npm Modules – In progress (Power Pack)
 - skill_level:  Intermediate
