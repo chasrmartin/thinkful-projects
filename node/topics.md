@@ -51,6 +51,7 @@
 ### Node Streams
 - skill_level:  Advanced
 - description:  Streams let you read large quantities of data from a source and pipe it to a destination as it arrives, delivering content to your users faster.
+> The sample project should be seeded with a long running synchronous IO task that will be drastically sped up by employing streams instead. Also consider how streams are used in requests, and how long running requests can send updates to the client to inform some progress bar, file upload for example.
 
 ### Logging, Metrics, and Monitoring Production
 - skill_level:  Advanced
