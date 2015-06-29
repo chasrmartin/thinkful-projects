@@ -18,6 +18,7 @@
 ### MEAN Gone Relational - Postgres, Express, Angular, Node
 - skill_level:  Intermediate
 - description:  Build a CRUD single page app with Node, Express, Angular, and PostgreSQL (along with Sequelize). Example - [blog post](http://mherman.org/blog/2015/02/12/postgresql-and-nodejs), [repo](https://github.com/mjhea0/node-postgres-todo).
+> Look into [Bookshelf](http://bookshelfjs.org/), also it's not MEAN without Mongo, take a look at [Mongoose](http://mongoosejs.com/)
 
 ### Lodash - Live (OKCoding)
 - skill_level:  Intermediate
